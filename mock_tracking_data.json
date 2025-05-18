@@ -1,0 +1,39 @@
+{
+    "DHL": {
+        "ABC123XYZ": {
+            "status": "Out for Delivery",
+            "current_location": "Karachi Warehouse",
+            "estimated_delivery": "2025-05-20",
+            "lat": 24.8607,
+            "lon": 67.0011
+        }
+    },
+    "Leopard": {
+        "XYZ987ABC": {
+            "status": "Delivered",
+            "current_location": "Lahore Office",
+            "estimated_delivery": "2025-05-15",
+            "lat": 31.5497,
+            "lon": 74.3436
+        }
+    },
+    "M&P": {
+        "LMN456DEF": {
+            "status": "Shipped",
+            "current_location": "Islamabad Hub",
+            "estimated_delivery": "2025-05-18",
+            "lat": 33.6844,
+            "lon": 73.0479
+        }
+    },
+    "Pakistan Post": {
+        "UVW789GHI": {
+            "status": "Pending",
+            "current_location": "Rawalpindi Sorting Center",
+            "estimated_delivery": "2025-05-22",
+            "lat": 33.6007,
+            "lon": 73.0679
+        }
+    }
+}
+
